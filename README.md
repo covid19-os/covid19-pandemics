@@ -1,1 +1,1 @@
-# covid19-pandemicss
+# covid19-pandemics
